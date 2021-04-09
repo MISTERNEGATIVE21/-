@@ -1,6 +1,5 @@
-Header Hacker's Paradise
-## Header 2
-### Header 3
+# Hacker's Paradise
+
 
 - Bulleted
 - List
